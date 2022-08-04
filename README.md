@@ -1,5 +1,7 @@
 # Self-Supervised Learning for Avian Diversity Monitoring SC22
 
+[![DOI](https://zenodo.org/badge/521385578.svg)](https://zenodo.org/badge/latestdoi/521385578)
+
 This repository contains several Jupyter notebooks as well as python scripts to replicate all the experiments shown in the poster presented in SC22.
 
 
